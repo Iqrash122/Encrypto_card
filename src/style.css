@@ -1,0 +1,9 @@
+
+@import "tailwindcss";
+
+
+@media (min-width: 1500px) and (max-width: 2560px) {
+   .right-side{
+    height: 1121.3px;
+   }
+}
